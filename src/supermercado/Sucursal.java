@@ -7,5 +7,5 @@ public class Sucursal {
     String nombre;
     Ventas venta;
     
-    
+//    soy una diva
 }
